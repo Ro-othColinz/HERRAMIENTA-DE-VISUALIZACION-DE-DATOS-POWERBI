@@ -7,6 +7,7 @@ Analizar desde otra perspectiva la base de datos y realizar un Dashboard que sea
 
 En el siguiente dashboard se incluyeron tales campos.
 Comenzando con tres gráficos:
+
 •	Grafico de área:  En el cual indica las ventas por año.
 
 •	Grafico de anillos: Donde muestra el porcentaje de las ventas totales por categoría.
